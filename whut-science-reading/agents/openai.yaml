@@ -1,0 +1,6 @@
+interface:
+  display_name: "英语阅读策略 · 科普阅读分析"
+  short_description: "用于英语阅读策略课程科普阅读分析：选文、读原理、写双语概述、配图与回复"
+  default_prompt: "使用 $whut-science-reading，按武汉理工大学《英语阅读策略》课程科普阅读分析活动的风格整理我提供的文章，讲清方法，语言简短易懂。"
+policy:
+  allow_implicit_invocation: true
